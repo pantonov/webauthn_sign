@@ -2,6 +2,7 @@
 ECDSA digital signatures with WebAuthn
 
 ![Build Status](https://github.com/pantonov/webauthn_sign/workflows/Go/badge.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/pantonov/webauth_sign.svg)](https://pkg.go.dev/github.com/pantonov/webauth_sign)
 
 ---
 This package implements digital signatures with WebAuthn. It depends on [DuoLabs WebAuthn library](https://github.com/duo-labs/webauthn).
