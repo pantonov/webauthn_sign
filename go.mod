@@ -2,7 +2,7 @@ module github.com/pantonov/webauthn_sign
 
 go 1.17
 
-require github.com/duo-labs/webauthn v0.0.0-20211221191814-a22482edaa3b
+require github.com/duo-labs/webauthn v0.0.0-20220114184233-e97fb22df1cc
 
 require (
 	github.com/cloudflare/cfssl v0.0.0-20190726000631-633726f6bcb7 // indirect
